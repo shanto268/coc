@@ -1,0 +1,659 @@
+{
+  "coc-python|/Users/shanto/Programming/test": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:85a00240f50718879d827e0a07bbece8": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:85a00240f50718879d827e0a07bbece8": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/shanto/Programming/test": {
+      "architecture": 3,
+      "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+      "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/Users/shanto/miniforge3/envs/sas/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd"
+      },
+      "expiry": 1651825311736
+    },
+    "/Users/shanto/miniforge3/envs/sas/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "482942f63d48ab4083f72dd50aa47f13550ecc2f3fe3000f71ca9a6e5c055bebd636aef93102e0100ad33ecad602f6f7f228e34e6203e6a8c4f4f53f222535b9"
+      },
+      "expiry": 1651825311725
+    },
+    "/Users/shanto/miniforge3/envs/sas/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "9d4dede48ed0b8a6ca9d1e9ece7cddaac4a01bf57b099b56cad741b5745a37032123ea358ee206a1c277b8b8547df5651fa3fd7c5db45a2895ff94aedbd66912"
+      },
+      "expiry": 1651825311735
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "9d4dede48ed0b8a6ca9d1e9ece7cddaac4a01bf57b099b56cad741b5745a37032123ea358ee206a1c277b8b8547df5651fa3fd7c5db45a2895ff94aedbd66912",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+      "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+      "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+      "type": "Unknown"
+    },
+    "/Users/shanto/miniforge3/envs/sas/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.12-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.12-final"
+          },
+          "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+          "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/shanto/miniforge3/envs/sas",
+          "envName": "sas",
+          "displayName": "Python 3.9.12 64-bit ('sas': conda)",
+          "__store": true
+        }
+      },
+      "expiry": 1651825312444
+    },
+    "/Users/shanto/miniforge3/envs/sas/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.12 64-bit ('sas': conda)",
+        "hash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd-5e39de8112fe4588f31f3387e36c9020"
+      },
+      "expiry": 1651825312443
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "9bacf42b6434670e31647c341ea7fabeeb09b13a612c67f01709444d3af713ab4f9d9eccc1e3891007009b9d3d2feb3737c156f219f3203fcc0f27016fef9159"
+      },
+      "expiry": 1651825311807
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "9d4dede48ed0b8a6ca9d1e9ece7cddaac4a01bf57b099b56cad741b5745a37032123ea358ee206a1c277b8b8547df5651fa3fd7c5db45a2895ff94aedbd66912",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "482942f63d48ab4083f72dd50aa47f13550ecc2f3fe3000f71ca9a6e5c055bebd636aef93102e0100ad33ecad602f6f7f228e34e6203e6a8c4f4f53f222535b9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "9bacf42b6434670e31647c341ea7fabeeb09b13a612c67f01709444d3af713ab4f9d9eccc1e3891007009b9d3d2feb3737c156f219f3203fcc0f27016fef9159",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "9bacf42b6434670e31647c341ea7fabeeb09b13a612c67f01709444d3af713ab4f9d9eccc1e3891007009b9d3d2feb3737c156f219f3203fcc0f27016fef9159",
+        "type": "Unknown"
+      }
+    ],
+    "/Users/shanto/miniforge3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3",
+        "fileHash": "6bfe22dfb03bd8a4ecb13ed54bf580e7752bb5d68e25f00efc919203406661b247ae213af5b3a51c9d09cd3eec2895eb454bb6bded4666886de1efe9eab56145"
+      },
+      "expiry": 1651825312115
+    },
+    "CONDA_ENVIRONMENTS": {
+      "data": [
+        {
+          "name": "base",
+          "path": "/Users/shanto/miniforge3"
+        },
+        {
+          "name": "sas",
+          "path": "/Users/shanto/miniforge3/envs/sas"
+        }
+      ]
+    },
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/shanto/miniforge3/envs/sas",
+        "envName": "sas"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3",
+        "fileHash": "6bfe22dfb03bd8a4ecb13ed54bf580e7752bb5d68e25f00efc919203406661b247ae213af5b3a51c9d09cd3eec2895eb454bb6bded4666886de1efe9eab56145",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/shanto/miniforge3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/shanto/miniforge3/envs/sas",
+        "envName": "sas"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+        "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/shanto/miniforge3/envs/sas",
+        "envName": "sas"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/Users/shanto/miniforge3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.10 64-bit ('base': conda)",
+        "hash": "6bfe22dfb03bd8a4ecb13ed54bf580e7752bb5d68e25f00efc919203406661b247ae213af5b3a51c9d09cd3eec2895eb454bb6bded4666886de1efe9eab56145-07b9d156a99b58853bef0990d8f64148"
+      },
+      "expiry": 1651825312436
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.9 64-bit",
+        "hash": "9bacf42b6434670e31647c341ea7fabeeb09b13a612c67f01709444d3af713ab4f9d9eccc1e3891007009b9d3d2feb3737c156f219f3203fcc0f27016fef9159-6fcae054c221286165db8cd49f0a8aa8"
+      },
+      "expiry": 1651825312436
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/Users/shanto/miniforge3/envs/sas/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/Users/shanto/miniforge3/envs/sas",
+      "fileHash": "4638f0330fb6c7e0354c9c4892687fb13caaa78ca56771d1143af5aa2c3630d0b27fe4671daff39b299ea906ac0fc405e4b643addbf3fcaac5b74cc79b5ff2cd",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/Users/shanto/miniforge3/envs/sas",
+      "envName": "sas",
+      "displayName": "Python 3.9.12 64-bit"
+    },
+    "/Users/shanto/miniforge3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6bfe22dfb03bd8a4ecb13ed54bf580e7752bb5d68e25f00efc919203406661b247ae213af5b3a51c9d09cd3eec2895eb454bb6bded4666886de1efe9eab56145",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/shanto/miniforge3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.10-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 10,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.10-final"
+          },
+          "sysPrefix": "/Users/shanto/miniforge3",
+          "fileHash": "6bfe22dfb03bd8a4ecb13ed54bf580e7752bb5d68e25f00efc919203406661b247ae213af5b3a51c9d09cd3eec2895eb454bb6bded4666886de1efe9eab56145",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/shanto/miniforge3",
+          "envName": "base",
+          "displayName": "Python 3.9.10 64-bit ('base': conda)"
+        }
+      },
+      "expiry": 1651825312442
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9bacf42b6434670e31647c341ea7fabeeb09b13a612c67f01709444d3af713ab4f9d9eccc1e3891007009b9d3d2feb3737c156f219f3203fcc0f27016fef9159",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.9-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.9-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "9bacf42b6434670e31647c341ea7fabeeb09b13a612c67f01709444d3af713ab4f9d9eccc1e3891007009b9d3d2feb3737c156f219f3203fcc0f27016fef9159",
+          "type": "Unknown",
+          "displayName": "Python 3.8.9 64-bit"
+        }
+      },
+      "expiry": 1651825312442
+    }
+  }
+}
